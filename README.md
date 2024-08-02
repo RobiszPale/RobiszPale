@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobiszPale
 - 👀 I’m interested in Ecommerce
-- 🌱 I’m currently learning how does XML works
-- 💞️ I’m looking to collaborate on ecommerce products
+- 🌱 I’m currently learning how does 3D Printing works
+- 💞️ I’m looking to collaborate on ecommerce & 3D printing
 - 📫 How to reach me: www.linkedin.com/in/jan-paszak-2a580526b
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm into brazylian Jiu Jitsu and free style wrestling 
